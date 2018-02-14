@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="78"
+   height="104"
+   viewBox="0 0 77.999997 104"
+   id="svg4160"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="speed0.svg">
+  <circle cx="39" cy="39" r="36" fill="#f16b68"/>
+  <path d="M22.5,55.5 l33,-33 l19.5,19.5 A36,36 1 0,1 42,75 Z" fill="#c95957"/>
+  <rect x="22" y="22" height="34" width="34" rx="2" ry="2" fill="white" />
+  <text
+     style="font-size:13.9px;font-family:'Microsoft YaHei';
+       text-anchor:middle;fill:black;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+    x="41"
+     y="96"
+       >Arrêter</text>
+  <text
+     style="font-size:13.9px;font-family:'Microsoft YaHei';
+       text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+    x="39"
+     y="94"
+       >Arrêter</text>
+
+</svg>

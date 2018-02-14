@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="78"
+   height="104"
+   viewBox="0 0 77.999997 104"
+   id="svg4160"
+   version="1.1"
+   >
+  <defs>
+    <marker id='head' orient="auto"
+    markerWidth='2.5' markerHeight='4'
+    refX='0.1' refY='2'>
+      <polygon points="0,1.1 0,2.9 1,2" stroke-width="1" stroke="white" fill="white" stroke-linecap="round" style="stroke-linejoin:round"/>
+    </marker>
+  </defs>
+  <circle cx="39" cy="39" r="36" fill="#edc96b"/>
+  <g  stroke="white" stroke-width="3.5" stroke-linecap="round" style="stroke-linejoin:round"
+          stroke-miterlimit="10" fill="none">
+    <line y1="54" y2="54" x1="18" x2="60" />
+    <line x1="21" x2="21" y1="49" y2="34"  marker-end='url(#head)' />
+    <line x1="30" x2="30" y1="49" y2="39"  marker-end='url(#head)' />
+    <line x1="39" x2="39" y1="44" y2="46"  marker-end='url(#head)' />
+    <line x1="48" x2="48" y1="39" y2="46"  marker-end='url(#head)' />
+
+    <line x1="57" x2="57" y1="49" y2="30"  marker-end='url(#head)' />
+
+  </g>
+  <text
+       style="font-size:13.9px;font-family:'Microsoft YaHei';
+       text-anchor:middle;fill:black;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+      x="41"
+       y="96"
+       >Niveau</text>
+  <text
+     style="font-size:13.9px;font-family:'Microsoft YaHei';
+       text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+    x="39"
+     y="94"
+       >Niveau</text>
+</svg>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="78"
+   height="104"
+   viewBox="0 0 78 104"
+   
+   version="1.1"
+   >
+  <circle cx="39" cy="39" r="36" fill="#4daedb"/>
+  <path  d="M12.9,45.5 v-5 L57,24.1 l17.9,17.9 A36,36 1 0,1 42.3,74.9 z"  fill="#3f91b6"/>
+  <path d="M 14,44 a25,25 1 0,1 50,0"   fill="#3f91b6"/>
+
+  <g  stroke="white" stroke-width="3" stroke-linecap="round" style="stroke-linejoin:round"
+          stroke-miterlimit="10" fill="none">
+    <path d="M 14,44 a25,25 1 0,1 50,0"  stroke-width="3.5" />
+
+    <line x1="39" y1="44" x2="21.613" y2="39.341"
+/>
+
+  </g>
+  <circle cx="39" cy="44" r="5" fill="white"/>
+  <text
+     style="font-size:13.9px;font-family:'Microsoft YaHei';
+       text-anchor:middle;fill:black;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+    x="41"
+     y="96"
+       >Lent</text>
+  <text
+     style="font-size:13.9px;font-family:'Microsoft YaHei';
+       text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+    x="39"
+     y="94"
+       >Lent</text>
+</svg>

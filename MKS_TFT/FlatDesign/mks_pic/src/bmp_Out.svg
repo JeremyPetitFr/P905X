@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="78"
+   height="104"
+   viewBox="0 0 78 104"
+   version="1.1">
+  <circle cx="39" cy="39" r="36" fill="#32c4ad"/>
+  <path d="M66,30.27 L53.1,28 l-14.05,-14.05 c-3,3  -9,5 -9,20 v6 h-7.24 l3.25,3.25 h-3.25 l3.25,3.25 h-3.25 l3.25,3.25 h-3.25 v5.25 l4,4 l1,7 l8.95,8.95 A36,36 0 0,0 75,39.27 Z" fill="#26a48f"/>
+  <g  stroke="white" stroke-width="3" stroke-linecap="round" style="stroke-linejoin:round"
+          stroke-miterlimit="10" fill="none" transform="translate(-10,0)">
+    <path d="M48,15 C45,18  39,20 39,35" />
+    <line x1="39" x2="39" y1="35" y2="48"/>
+
+    <line x1="34" x2="44" y1="39" y2="39"/>
+    <line x1="34" x2="44" y1="42.25" y2="42.25"/>
+    <line x1="34" x2="44" y1="45.5" y2="45.5"/>
+    <polygon points="34,49 44,49 44,54 34,54 "/>
+    <polygon points="39,65 35.5,58 42.5,58"/>
+  </g>
+  <g  stroke="white" stroke-width="4" fill="none" transform="translate(0,3)">>
+
+    <polyline points="45,39 55,33 65,39"/>
+    <polyline points="45,29 55,23 65,29"/>
+    <polyline points="45,49 55,43 65,49"/>
+  </g>
+  <text
+     style="font-size:13.9px;font-family:'Microsoft YaHei';
+       text-anchor:middle;fill:black;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+    x="41"
+     y="96"
+       >Retirer</text>
+  <text
+     style="font-size:13.9px;font-family:'Microsoft YaHei';
+       text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+    x="39"
+     y="94"
+       >Retirer</text>
+</svg>

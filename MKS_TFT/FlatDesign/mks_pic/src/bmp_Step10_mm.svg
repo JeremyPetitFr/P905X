@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="78"
+   height="104"
+   viewBox="0 0 78 104"
+   
+   version="1.1"
+   >
+  <circle cx="39" cy="39" r="36" fill="#ecc96b"/>
+  <path  d="M17.6,42.3 v-3 L60.45,37.8 l12.7,12.7 A36,36 1 0,1 48.9,73.6 z"  fill="#c4a757"/>
+  <g  stroke="white" stroke-width="3" stroke-linecap="round" style="stroke-linejoin:round"
+          stroke-miterlimit="10" fill="none">
+    <line y1="39" y2="39" x1="19" x2="59" stroke-width="3.5" />
+    <line y1="39" y2="41" x1="18.5" x2="18.5" />
+    <line y1="39" y2="41" x1="59.5" x2="59.5" />
+
+  </g>
+
+  <text
+     style="font-size:13.9px;font-family:'Microsoft YaHei';
+       text-anchor:middle;fill:black;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+    x="41"
+     y="96"
+       >10 mm</text>
+  <text
+     style="font-size:13.9px;font-family:'Microsoft YaHei';
+       text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+    x="39"
+     y="94"
+       >10 mm</text>
+</svg>

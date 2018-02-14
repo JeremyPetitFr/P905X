@@ -1,0 +1,15 @@
+<svg height="104" version="1.1" viewBox="0 0 78 104" width="78" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="39" cy="39" fill="#f6997a" r="36"/>
+  <path d="M63 31 l11.8 11.8 a36 36 0 0,1 -38.35 32.1 l-18.2-18.2 v-19.4 l-3.5 -3.5 l24 -16 z" fill="#cb7e64"/>
+  <g fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3.5" transform="translate(0 5)" stroke-linejoin="round">
+    <polyline points="16 27.5 39 13 62 27.5"/>
+    <polygon points="20 31 39 19 58 31 58 51 44 51 44 39 34 39 34 51 20 51"/>
+  </g>
+  <text font-size="13.9" x="41" y="96" text-anchor="middle" fill="#000" font-family="Microsoft YaHei" stroke="none" stroke-linecap="butt" stroke-linejoin="miter" stroke-opacity="1" stroke-width="1">
+    X Y Z = 0
+  </text>
+  <text font-size="13.9" x="39" y="94" text-anchor="middle" fill="#fff" font-family="Microsoft YaHei" stroke="none" stroke-linecap="butt" stroke-linejoin="miter" stroke-opacity="1" stroke-width="1">
+    X Y Z = 0
+  </text>
+  <path d="M639 297.9c1 0-12-16-12-16s-4-9 0 0 4-7 4-7c0 2-8-1-8-1v1" fill="#bf4040"/>
+</svg>

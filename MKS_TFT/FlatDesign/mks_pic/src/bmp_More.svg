@@ -6,13 +6,28 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   width="78"
-   height="104"
+   
+   height="104" width="78"
    viewBox="0 0 78 104"
    
    version="1.1"
    >
-  <circle cx="39" cy="39" r="36" fill="#4cadda"/>
+   <circle cx="39" cy="39" r="36" fill="#4cadda"/>
+  <path d="M 53.7 51 l 12 12
+   a36 36 0 0,1 -6  5.4
+   l -12 -12
+   z
+   M 41.7 51 l 17.6 17.6
+   a36 36 0 0,1 -7.4  4
+   l -16 -16
+   z
+   M 29.7 51 l 21.75 21.75
+   a36 36 0 0,1 -9.3  2.1
+   l -18 -18
+   z
+   
+   
+   " fill="#3f91b6" />
   <circle cx="39" cy="54" r="4" fill="#ffffff"/>
   <circle cx="27" cy="54" r="4" fill="#ffffff"/>
   <circle cx="51" cy="54" r="4" fill="#ffffff"/>
